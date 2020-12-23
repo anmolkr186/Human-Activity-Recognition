@@ -24,7 +24,7 @@ The code for the project has been primarily done in Jupyter Notebook and it save
 
 ## Results
 After conducting the above experiments, it can be concluded that:
-* Random forests technique (max_depth = 16) performed with 98-99% avg. accuracy 
+* Random forests technique (max_depth = 16) performed with 99% avg. accuracy 
 * This was followed by Neural Network of 2 hidden layers with 36 and 24 units respectively with 98% avg. accuracy. (LR = 0.001 and ReLU activation function) 
 * The 3rd best model was GDA with 92% average accuracy in our analysis.
 
